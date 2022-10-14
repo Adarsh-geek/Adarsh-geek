@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adarsh Kumar
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning making Android using XML & JAVA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... Instagram Handle:@iim_adii 
